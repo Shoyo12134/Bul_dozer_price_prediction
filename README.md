@@ -1,4 +1,5 @@
 # Bul_dozer_price_prediction
+## `Note`: Since all the data files are not uploaded together U can download the from https://www.kaggle.com/c/bluebook-for-bulldozers/data following the data page.
 ## Predicting the sale price of bulldozers using Machine Learning
 In this notebook, we're going to go through an example machine learning project with the goal of predicting the sale price of bulldozers.
 ## 1.Problem Definations
