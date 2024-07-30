@@ -34,5 +34,6 @@ in this we will either create a new features or change around the existing featu
 install pandas
 install numpy
 install matplotlib.pyplot
-## model to be used (# U can use any model here but personaly I have used RandomForestRegressor as it is a versatile machine-learning technique for predicting numerical values. It combines the predictions of multiple decision trees to reduce overfitting and improve accuracy.
+## model to be used 
+(# U can use any model here but personaly I have used RandomForestRegressor as it is a versatile machine-learning technique for predicting numerical values. It combines the predictions of multiple decision trees to reduce overfitting and improve accuracy.
 `RandomForestRegressor`
